@@ -6,6 +6,8 @@ description: This resource includes information on neural voltage are measured w
 file: /courses/9-641j-introduction-to-neural-networks-spring-2005/5f23aec20dd6203c1dd42d827ce518ac_lec1_appendix_e.pdf
 file_size: 1021359
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

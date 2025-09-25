@@ -27,6 +27,7 @@
     "website": "9-641j-introduction-to-neural-networks-spring-2005"
   },
   "course_title": "Introduction to Neural Networks",
+  "hide_download": true,
   "course_description": "This course explores the organization of synaptic connectivity as the basis of neural computation and learning. Perceptrons and dynamical theories of recurrent networks including amplifiers, attractors, and hybrid computation are covered. Additional topics include backpropagation and Hebbian learning, as well as models of perception, motor control, memory, and neural development.\n",
   "department_numbers": [
     "9",
@@ -38,6 +39,7 @@
     "content": "b0986258-3202-3dc4-4760-a0d45000c368",
     "website": "9-641j-introduction-to-neural-networks-spring-2005"
   },
+  "hide_download_original": true,
   "learning_resource_types": [
     "Lecture Notes",
     "Problem Sets"

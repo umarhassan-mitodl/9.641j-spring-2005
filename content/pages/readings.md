@@ -2,6 +2,8 @@
 content_type: page
 description: The reading section includes the required and recommended readings for
   this course.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -67,7 +69,7 @@ Marr, David. _Vision: A Computational Investigation into the Human Representatio
   
 Hubel, David H. _Eye, Brain, and Vision_. New York, NY: W.H. Freeman & Company, 1988, chapter 3, pp. 39-46. ISBN: 9780716750208.  
   
-{{% resource_link "4210c4f4-a441-4768-9de7-c8b794716d54" "LeNet Web site" %}}
+[LeNet Web site](http://yann.lecun.com/exdb/lenet/index.html)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -91,7 +93,7 @@ Linear Networks
 Retina
 {{< tdclose >}}
 {{< tdopen >}}
-Adelson, E. H. "Lightness Perception and Lightness Illusions." {{% resource_link "62384e58-daf3-4b34-81b2-96e0e4ce35ba" "_The New Cognitive Neurosciences_" %}}_._ Edited by Michael S. Gazzaniga. 2nd ed. Cambridge, MA: MIT Press, 1999, pp. 339-351. ISBN: 9780262071956.  
+Adelson, E. H. "Lightness Perception and Lightness Illusions." [_The New Cognitive Neurosciences_](https://www.amazon.com/New-Cognitive-Neurosciences-Second/dp/0262071959)_._ Edited by Michael S. Gazzaniga. 2nd ed. Cambridge, MA: MIT Press, 1999, pp. 339-351. ISBN: 9780262071956.  
   
 Hartline, H. K., and F. Ratliff. "Inhibitory Interaction in the Retina of Limulus." _Physiology of Photoreceptor Organs._ Edited by Michelangelo G. F. Fuortes. New York, NY: Springer-Verlag, 1972, pp. 382-447. ISBN: 9780387057439.
 {{< tdclose >}}

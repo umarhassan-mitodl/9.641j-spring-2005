@@ -7,6 +7,8 @@ description: 'This resource includes information on idealization of interaction 
 file: /courses/9-641j-introduction-to-neural-networks-spring-2005/8332a815ae1fc9cda72831442afcb29d_lec13_antisym.pdf
 file_size: 241374
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
